@@ -1,0 +1,27 @@
+@font-face{
+    font-family:'lato';
+}
+@media (max-width: 320px) {
+
+
+    h1{
+        font-size:15px;
+        color:#E8402D;
+        color:#363636;
+        color:#808080;
+    }
+
+    h3{
+        font-size:25px;
+    }
+    #iphone{
+        height:5vh;
+        width:2.5vw;
+    }
+    #bouton-download{
+        font-size:.8em;
+        border-radius:50px;
+    }
+
+
+}
